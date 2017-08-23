@@ -1,8 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=Lora|Merriweather+Sans:800');
 
 .ar { text-align: right; }
+.ac { text-align: center; }
 
 .pb5 { padding-bottom: 5em; }
+
+#bfg {
+	width: 40%;
+	display: block;
+	margin: 0 auto;
+	color: #054C6F;
+	padding: 10em 0;
+}
+
+#bfg-wrapper {
+	background-color: #F3F5F6;
+}
 
 #alice {
 	color: #5F5F09;
