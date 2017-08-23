@@ -1,4 +1,24 @@
-@import url('https://fonts.googleapis.com/css?family=Hind|Lora|Merriweather+Sans:800');
+@import url('https://fonts.googleapis.com/css?family=Lora|Merriweather+Sans:800');
+
+.ar { text-align: right; }
+
+.pb5 { padding-bottom: 5em; }
+
+#good-omens {
+	max-width: 30%;
+	display: block;
+	margin: 0 auto 0 auto;
+	color: #054C6F;
+	padding: 10em 0;
+
+	q {
+		padding-bottom: 5em;
+	}
+}
+
+#good-omens-wrapper {
+	background-color: #F3F5F6;
+}
 
 #watchmen {
 	max-width: 1280px;
@@ -20,10 +40,6 @@
 	background-color: #FFE3E1;
 }
 
-#catcher-wrapper {
-	background-color: #939492;
-}
-
 #catcher {
 	max-width: 1280px;
 	text-align: right;
@@ -37,8 +53,14 @@
 	}
 }
 
+#catcher-wrapper {
+	background-color: #939492;
+}
+
 q {
 	font-family: 'Lora', serif;
+	display: inline-block;
+	width: 100%;
 }
 
 q:before,
