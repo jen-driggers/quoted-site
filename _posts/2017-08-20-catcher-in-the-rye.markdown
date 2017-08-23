@@ -5,7 +5,7 @@ date:   2017-08-20 20:17:47 -0700
 categories: jekyll update
 ---
 
-<div id="catcher-wrapper">
+<div id="catcher-wrapper" class="quote-wrapper">
 
 	<div id="catcher">
 

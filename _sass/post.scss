@@ -1,23 +1,44 @@
 @import url('https://fonts.googleapis.com/css?family=Hind|Lora|Merriweather+Sans:800');
 
+#watchmen {
+	max-width: 1280px;
+	max-width: 30%;
+	display: block;
+	margin: 0 auto 0 auto;
+	color: #7E251F;
+	padding: 10em 0 10em 0;
+	font-size: 1.5em;
+	font-weight: bold;
+
+	q {
+		padding: 0 0 2em 0;
+		display: inline-block;
+	}
+}
+
+#watchmen-wrapper {
+	background-color: #FFE3E1;
+}
+
 #catcher-wrapper {
 	background-color: #939492;
 }
 
 #catcher {
-	text-align: right;
 	max-width: 1280px;
-	display: block;
-	margin: 0 auto 0 auto;
+	text-align: right;
 	padding: 5em 0 20em 0;
 	font-size: 1.5em;
-	font-family: 'Lora', serif;
 	color: #1E1F1E;
 
 	em {
 		display: inline-block;
 		padding: 1em 0 0 0;
 	}
+}
+
+q {
+	font-family: 'Lora', serif;
 }
 
 q:before,
