@@ -1,1 +1,16 @@
-#special { color: blue; }
+#catcher-wrapper {
+	background-color: #939492;
+}
+
+#catcher {
+	text-align: right;
+	max-width: 1280px;
+	display: block;
+	margin: 0 auto 0 auto;
+	padding: 5em 0 20em 0;
+}
+
+q:before,
+q:after {
+	content: " ";
+}
