@@ -14,6 +14,8 @@ categories: jekyll update
 			<em>It's nice.</em>
 		</q>
 
+		<cite class="book">&#8212; The Catcher in the Rye</cite>
+
 	</div>
 
 </div>
