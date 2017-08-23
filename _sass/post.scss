@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Lora');
+
 #catcher-wrapper {
 	background-color: #939492;
 }
@@ -8,6 +10,14 @@
 	display: block;
 	margin: 0 auto 0 auto;
 	padding: 5em 0 20em 0;
+	font-size: 1.5em;
+	font-family: 'Lora', serif;
+	color: #1E1F1E;
+
+	em {
+		display: inline-block;
+		padding: 1em 0 0 0;
+	}
 }
 
 q:before,
