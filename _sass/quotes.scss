@@ -17,6 +17,19 @@
 	font-size: 2em;
 }
 
+#thinking.quote-wrapper {
+	background-color: #0F7BB1;
+	color: #f6f6f6;
+
+	q {
+		padding: 0 0 3em 0;
+	}
+}
+
+#thinking .quote {
+	width: 30%
+}
+
 .citation {
 	display: inline-block;
 	padding: 10em 0;
