@@ -5,9 +5,9 @@ date:   2017-08-20 20:17:47 -0700
 categories: jekyll update
 ---
 
-<div id="naked-lunch-wrapper">
+<div id="naked-lunch" class="quote-wrapper">
 
-	<div id="naked-lunch" class="quote">
+	<div class="quote">
 
 		<q>Last night i woke up with someone squeezing my hand</q>
 

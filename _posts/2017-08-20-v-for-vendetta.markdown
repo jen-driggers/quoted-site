@@ -5,9 +5,9 @@ date:   2017-08-20 20:17:47 -0700
 categories: jekyll update
 ---
 
-<div id="v-wrapper">
+<div id="v" class="quote-wrapper">
 
-	<div id="v" class="quote">
+	<div class="quote">
 
 
 		<q>Artists use lies to tell the truth.</q>

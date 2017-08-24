@@ -1,7 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Lora|Merriweather+Sans:800');
+@import url('https://fonts.googleapis.com/css?family=Lora:400,700|Merriweather+Sans:800');
 
 .ar { text-align: right; }
 .ac { text-align: center; }
+
+.bold { font-weight: bold; }
 
 
 /**
@@ -15,4 +17,25 @@ dl, dd, ol, ul, figure {
 
 body {
 	font-family: 'Lora', serif;
+}
+
+q {
+	font-family: 'Lora', serif;
+	display: inline-block;
+	width: 100%;
+}
+
+q:before,
+q:after {
+	content: " ";
+}
+
+cite {
+	font-style: normal;
+	display: block;
+	padding: 10em 0 0 0;
+	font-family: 'Merriweather', sans-serif;
+	font-weight: 800;
+	font-size: 0.8em;
+	text-align: right;
 }

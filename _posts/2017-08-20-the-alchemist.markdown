@@ -5,9 +5,9 @@ date:   2017-08-20 20:17:47 -0700
 categories: jekyll update
 ---
 
-<div id="alchemist-wrapper">
+<div id="alchemist" class="quote-wrapper">
 
-	<div id="alchemist" class="quote">
+	<div class="quote">
 
 		<q>Remember that wherever your heart is, there you will find your treasure.</q>
 

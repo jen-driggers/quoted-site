@@ -5,9 +5,9 @@ date:   2017-08-20 20:17:47 -0700
 categories: jekyll update
 ---
 
-<div id="watchmen-wrapper" class="quote-wrapper">
+<div id="watchmen" class="quote-wrapper">
 
-	<div id="watchmen" class="quote">
+	<div class="quote">
 
 		<q>There's a notion I'd like to see buried: <em> the ordinary person</em>. Ridiculous. 
 		</q>

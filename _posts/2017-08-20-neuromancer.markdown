@@ -5,9 +5,9 @@ date:   2017-08-20 20:17:47 -0700
 categories: jekyll update
 ---
 
-<div id="neuromancer-wrapper">
+<div id="neuromancer" class="quote-wrapper">
 
-	<div id="neuromancer" class="quote">
+	<div class="quote">
 
 		<q>cyberspace</q>
 

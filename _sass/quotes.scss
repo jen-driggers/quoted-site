@@ -1,113 +1,28 @@
+.quote-wrapper {
+	margin-top: -10em;
+}
+
 .quote {
 	display: block;
 	margin: 0 auto;
-}
-
-#alchemist {
-	width: 30%;
-	color: #054C6F;
-	padding: 10em 0;
-}
-
-#alchemist-wrapper {
-	background-color: #F3F5F6;
-}
-
-#grapes {
-	width: 20%;
-	color: #f6f6f6;
-	padding: 10em 0;
-}
-
-#grapes-wrapper {
-	background-color: #2D2D2D;
-}
-
-#bfg {
 	width: 40%;
-	color: #054C6F;
-	padding: 10em 0;
+	padding: 20em 0;
 }
 
-#bfg-wrapper {
-	background-color: #F3F5F6;
+#design.quote-wrapper {
+	background-color: #fafafa;
 }
 
-#alice {
-	color: #5F5F09;
-	width: 40%;
-	padding: 10em 0;
+#design q {
+	font-size: 2em;
 }
 
-#alice-wrapper {
-	background-color: #F7F7BF;
-}
-
-#good-omens {
-	max-width: 30%;
-	color: #054C6F;
-	padding: 10em 0;
-
-	q {
-		padding-bottom: 5em;
-	}
-}
-
-#good-omens-wrapper {
-	background-color: #F3F5F6;
-}
-
-#watchmen {
-	max-width: 1280px;
-	max-width: 30%;
-	color: #7E251F;
-	padding: 10em 0 10em 0;
-	font-size: 1.5em;
-	font-weight: bold;
-
-	q {
-		padding: 0 0 2em 0;
-		display: inline-block;
-	}
-}
-
-#watchmen-wrapper {
-	background-color: #FFE3E1;
-}
-
-#catcher {
-	max-width: 1280px;
-	text-align: right;
-	padding: 5em 0 20em 0;
-	font-size: 1.5em;
-	color: #1E1F1E;
-
-	em {
-		display: inline-block;
-		padding: 1em 0 0 0;
-	}
-}
-
-#catcher-wrapper {
-	background-color: #939492;
-}
-
-q {
-	font-family: 'Lora', serif;
+.citation {
 	display: inline-block;
+	padding: 10em 0;
 	width: 100%;
 }
 
-q:before,
-q:after {
-	content: " ";
-}
 
-cite {
-	font-style: normal;
-	display: block;
-	padding: 10em 0 0 0;
-	font-family: 'Merriweather', sans-serif;
-	font-weight: 800;
-	font-size: 0.8em;
-}
+
+

@@ -5,9 +5,9 @@ date:   2017-08-20 20:17:47 -0700
 categories: jekyll update
 ---
 
-<div id="catcher-wrapper" class="quote-wrapper">
+<div id="catcher" class="quote-wrapper">
 
-	<div id="catcher" class="quote">
+	<div class="quote">
 
 		<q>I like it when somebody gets excited about something. 
 			<br />

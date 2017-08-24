@@ -5,9 +5,9 @@ date:   2017-08-20 20:17:47 -0700
 categories: jekyll update
 ---
 
-<div id="alice-wrapper">
+<div id="alice" class="quote-wrapper">
 
-	<div id="alice" class="quote">
+	<div class="quote">
 
 		<q>have i gone mad</q>
 
@@ -18,3 +18,4 @@ categories: jekyll update
 	</div>
 
 </div>
+

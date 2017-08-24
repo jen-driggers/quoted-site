@@ -5,9 +5,9 @@ date:   2017-08-20 20:17:47 -0700
 categories: jekyll update
 ---
 
-<div id="american-gods-wrapper">
+<div id="american-gods" class="quote-wrapper">
 
-	<div id="american-gods">
+	<div class="quote">
 
 		<q>it doesn't matter that you didn't believe in us</q>
 

@@ -5,13 +5,15 @@ date:   2017-08-20 20:17:47 -0700
 categories: jekyll update
 ---
 
-<div id="v-wrapper">
+<div id="design" class="quote-wrapper ac bold">
 
-	<div id="v" class="quote">
+	<div class="quote">
 
-		<q>fail often, fail fast</q>
+		<q>fail often, <em>fail fast</em></q>
 
-		<cite class="book">&#8212; The Design of Everyday Things</cite>
+		<div class="citation">
+			<cite class="book">&#8212; The Design of Everyday Things</cite>
+		</div>
 
 	</div>
 
