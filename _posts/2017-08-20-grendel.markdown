@@ -5,11 +5,11 @@ date:   2017-08-20 20:17:47 -0700
 categories: jekyll update
 ---
 
-<div id="v" class="quote-wrapper">
+<div id="grendel" class="quote-wrapper">
 
 	<div class="quote">
 
-		<q>Poor Grendel's had an accident.</q>
+		<q class="upper">Poor Grendel's had an accident.</q>
 
 		<q>So may you all.</q>
 
