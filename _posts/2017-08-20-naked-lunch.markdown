@@ -7,7 +7,7 @@ categories: jekyll update
 
 <div id="naked-lunch-wrapper">
 
-	<div id="naked-lunch">
+	<div id="naked-lunch" class="quote">
 
 		<q>Last night i woke up with someone squeezing my hand</q>
 

@@ -7,7 +7,7 @@ categories: jekyll update
 
 <div id="grapes-wrapper">
 
-	<div id="grapes">
+	<div id="grapes" class="quote">
 
 		<q>It was her habit to build up laughter out of inadequate materials.</q>
 

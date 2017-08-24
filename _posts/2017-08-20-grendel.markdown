@@ -7,7 +7,7 @@ categories: jekyll update
 
 <div id="v-wrapper">
 
-	<div id="v">
+	<div id="v" class="quote">
 
 		<q>Poor Grendel's had an accident.</q>
 

@@ -7,7 +7,7 @@ categories: jekyll update
 
 <div id="good-omens-wrapper">
 
-	<div id="good-omens">
+	<div id="good-omens" class="quote">
 
 		<q class="ar pb5"><em>Potentially</em> evil.</q>
 

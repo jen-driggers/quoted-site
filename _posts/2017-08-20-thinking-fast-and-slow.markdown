@@ -7,7 +7,7 @@ categories: jekyll update
 
 <div id="american-gods-wrapper">
 
-	<div id="american-gods">
+	<div id="american-gods" class="quote">
 
 		<q>the idea that the future is unpredictable</q>
 

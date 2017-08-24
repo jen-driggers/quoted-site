@@ -7,7 +7,7 @@ categories: jekyll update
 
 <div id="watchmen-wrapper" class="quote-wrapper">
 
-	<div id="watchmen">
+	<div id="watchmen" class="quote">
 
 		<q>There's a notion I'd like to see buried: <em> the ordinary person</em>. Ridiculous. 
 		</q>

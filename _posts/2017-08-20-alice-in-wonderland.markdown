@@ -7,7 +7,7 @@ categories: jekyll update
 
 <div id="alice-wrapper">
 
-	<div id="alice">
+	<div id="alice" class="quote">
 
 		<q>have i gone mad</q>
 

@@ -7,7 +7,7 @@ categories: jekyll update
 
 <div id="catcher-wrapper" class="quote-wrapper">
 
-	<div id="catcher">
+	<div id="catcher" class="quote">
 
 		<q>I like it when somebody gets excited about something. 
 			<br />

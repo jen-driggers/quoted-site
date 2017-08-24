@@ -7,7 +7,7 @@ categories: jekyll update
 
 <div id="neuromancer-wrapper">
 
-	<div id="neuromancer">
+	<div id="neuromancer" class="quote">
 
 		<q>cyberspace</q>
 

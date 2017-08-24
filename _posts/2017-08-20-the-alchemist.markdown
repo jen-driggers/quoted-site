@@ -7,7 +7,7 @@ categories: jekyll update
 
 <div id="alchemist-wrapper">
 
-	<div id="alchemist">
+	<div id="alchemist" class="quote">
 
 		<q>Remember that wherever your heart is, there you will find your treasure.</q>
 
