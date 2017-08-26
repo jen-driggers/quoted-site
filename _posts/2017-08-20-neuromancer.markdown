@@ -7,14 +7,20 @@ categories: jekyll update
 
 <div id="neuromancer" class="quote-wrapper">
 
-	<div class="quote">
+		<div class="quote">
 
-		<q>cyberspace</q>
+			<div id="neuromancer-inner-wrap">
 
-		<q>a consensual hallucination experienced daily by billions of legitimate operators, <em>in every nation</em></q>
+				<q id="title">cyberspace</q>
 
-		<cite class="book">&#8212; Neuromancer</cite>
+				<q id="body">a consensual hallucination experienced daily by billions of legitimate operators, <em>in every nation</em></q>
 
-	</div>
+				<cite class="book">&#8212; Neuromancer</cite>
+
+			</div>
+
+			<div id="border-box"></div>
+
+		</div>
 
 </div>
