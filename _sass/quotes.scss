@@ -42,6 +42,24 @@
 		text-align: center;
 		padding-bottom: 3em;
 		letter-spacing: 0.1em;
+		color: #222;
+		font-size: 2em;
+		font-family: 'Playfair Display', serif;
+		font-weight: 900;
+		padding-bottom: 2em;
+	}
+
+	.upper {
+		font-size: 4em;
+		font-weight: 900;
+		letter-spacing: 0.1em;
+		text-shadow: 
+      -1px -1px 1px #111, 
+      2px 2px 1px #363636;
+	}
+
+	.quote {
+		width: 90%;
 	}
 }
 
