@@ -9,7 +9,7 @@ categories: jekyll update
 
 	<div class="quote">
 
-		<q>have i gone mad</q>
+		<q id="mad">have i gone mad</q>
 
 		<q><em>i'm afraid so, but let me tell you something, the best people usually are</em></q>
 

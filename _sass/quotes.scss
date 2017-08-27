@@ -1,5 +1,13 @@
+html,article,body {
+	height: 100;
+    min-height: 100;
+    margin: 0;
+    padding: 0;
+}
+
 .quote-wrapper {
 	margin-top: -10em;
+	height: 100%;
 }
 
 .quote {
@@ -8,6 +16,80 @@
 	width: 40%;
 	padding: 20em 0;
 }
+
+#alice .quote {
+	width: 60%;
+	display: block;
+	margin: 0 auto;
+}
+
+#alice.quote-wrapper {
+/*	background-color: #777;*/
+background: url('/assets/worn_dots.png');
+background-repeat: repeat;
+}
+
+#mad {
+	font-family: 'Shrikhand', cursive;
+	font-size: 6em;
+	-ms-transform: rotate(-7deg); /* IE 9 */
+    -webkit-transform: rotate(-7deg); /* Chrome, Safari, Opera */
+    transform: rotate(-7deg);
+    -webkit-text-shadow: -0.2rem 0.1rem 0 rgba(0,0,0,0.1);
+    -moz-text-shadow: -0.2rem 0.1rem 0 rgba(0,0,0,0.1);
+    -ms-text-shadow: -0.2rem 0.1rem 0 rgba(0,0,0,0.1);
+    text-shadow: -0.2rem 0.1rem 0 rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+#voice.quote-wrapper {
+	color: white;
+	background: radial-gradient(ellipse at bottom, #1B2735 0%, #090A0F 100%);
+}
+
+#voice q {
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 1.5em;
+	text-align: center;
+}
+
+#voice .quote {
+	padding: 8em 0;
+}
+
+#above {
+	padding-top: 15em;
+}
+
+#above:after {
+	content: 'Above';
+	font-weight: bold;
+	position: relative;
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 15em;
+	color: white;
+	text-align: center;
+	display: block;
+  	text-shadow: 
+      0 -1px 0 #fff, 
+      0 1px 0 #2e2e2e, 
+      0 2px 0 #2c2c2c, 
+      0 3px 0 #2a2a2a, 
+      0 4px 0 #282828, 
+      0 5px 0 #262626, 
+      0 6px 0 #242424, 
+      0 7px 0 #222, 
+      0 8px 0 #202020, 
+      0 9px 0 #1e1e1e, 
+      0 10px 0 #1c1c1c, 
+      0 11px 0 #1a1a1a, 
+      0 12px 0 #181818, 
+      0 13px 0 #161616, 
+      0 14px 0 #141414, 
+      0 15px 0 #121212, 
+      0 22px 30px rgba(0, 0, 0, 0.9);
+	}
+
 
 #design.quote-wrapper {
 	background-color: #fafafa;
@@ -122,11 +204,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#555555', end
 }
 
 #bfg.quote-wrapper {
-	background-color: #F3F5F6;
+/*	background-color: #F3F5F6;*/
 	color: #054C6F;
 
 	q {
-		font-size: 2em;
+		font-size: 6em;
+		font-family: 'Codystar', cursive;
+		font-weight: lighter;
+	}
+
+	.quote {
+	 	width: 80%;
 	}
 }
 
