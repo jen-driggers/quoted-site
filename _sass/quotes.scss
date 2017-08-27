@@ -31,7 +31,14 @@
 }
 
 #grendel.quote-wrapper {
-	background-color: #333;
+/*	background-color: #333;*/
+
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#555555+0,000000+99 */
+background: #555555; /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover, #555555 0%, #000000 99%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover, #555555 0%,#000000 99%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center, #555555 0%,#000000 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#555555', endColorstr='#000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
 
 #grendel {
@@ -40,25 +47,25 @@
 
 	q {
 		text-align: center;
-		padding-bottom: 3em;
-		letter-spacing: 0.1em;
-		color: #777;
+		color: #111;
 		font-size: 2em;
-		font-family: 'Playfair Display', serif;
-		font-weight: 900;
-		padding-bottom: 2em;
+		/*font-family: 'Playfair Display', serif;*/
+		/*font-family: 'Abril Fatface', cursive;*/
+		/*font-family: 'Yeseva One', cursive;*/
+		font-weight: bold;
+		padding-bottom: 1em;
 		font-style: italic;
 	}
 
 	.upper {
-		font-size: 4em;
-		color: #f3f3f3;
-		font-weight: 900;
-		letter-spacing: 0.1em;
-		text-shadow: 
-      -1px -1px 1px #111, 
-      2px 2px 1px #363636;
-      font-style: normal;
+		padding-top: 1em;
+		font-size: 4.5em;
+		color: #f0f0f0;
+		font-weight: 700;
+		letter-spacing: 0.05em;
+		font-family: 'Josefin Sans', sans-serif;
+		text-shadow: -6px 6px 0px rgba(000, 000, 000, 1);
+      	font-style: normal;
 	}
 
 	.quote {

@@ -9,7 +9,7 @@ categories: jekyll update
 
 	<div class="quote">
 
-		<q class="upper">Poor Grendel's had an accident.</q>
+		<q class="upper">Poor Grendel's had an accident</q>
 
 		<q>So may you all.</q>
 
